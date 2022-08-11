@@ -1,16 +1,16 @@
 # 🚀 Daniel Homepage
 
 ### **Site.**
-[https://danyr59.github.io/daniel_gatsby-portafolio_nuevo/](https://danyr59.github.io/daniel_gatsby-portafolio_nuevo/)
+[https://danyr59.github.io/briefcase/](https://danyr59.github.io/briefcase/)
 
 
 ### **Stack.**
 
 Tecnologies with use:
 
-1. [GatsbyJS](https://duckduckgo.com) - A Library for generate web site static.
+1. [GatsbyJS](https://www.gatsbyjs.com/) - A Library for generate web site static.
 
-2. [Chakra UI](https://duckduckgo.com) - A simple, modular and accessible component library for React
+2. [Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library for React
 
 ### **Project Structure.**
 
