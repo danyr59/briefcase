@@ -205,7 +205,7 @@ const pageIndex = () => {
             <BioYear>
               2022
             </BioYear>
-            In mid-November 2021 I started the regular university semester again, after a long time due to the pandemic, which ended at the end of April 2022, I am currently in classes, which started at the beginning of June 2022, Parallel to this, I continue my learning, app creation, and other things of interest to me, both in web development, and in other areas to which I want to immerse myself.
+            (5/10) fifth semester of systems engineering approved
           </BioSection>
 
 
