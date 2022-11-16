@@ -156,6 +156,11 @@ const pageIndex = () => {
                   <ListIcon as={ChevronRightIcon} />
                   Express.js
                 </ListItem>
+                <ListItem>
+                  <ListIcon as={ChevronRightIcon} />
+                  SQL
+                </ListItem>
+
               </List>
             </GridItem>
 
